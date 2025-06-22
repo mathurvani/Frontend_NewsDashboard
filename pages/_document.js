@@ -1,3 +1,4 @@
+import PayoutTable from "@/components/PayoutTable";
 import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
