@@ -30,7 +30,15 @@ This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-appl
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Ne![Screenshot 2025-06-23 133040](https://github.com/user-attachments/assets/d5772925-20cc-4379-9bd3-df98955abfdd)
+xt.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## Implemented Features In the Project: (With screenshots)
+1. User Authentication:
+○ Implement secure login functionality using email-password authentication or
+third-party tools (e.g., Google OAuth).
+
+
+![Uploading Screenshot 2025-06-23 133040.png…]()
