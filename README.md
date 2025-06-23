@@ -38,6 +38,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 1. User Authentication:
 ○ Implement secure login functionality using email-password authentication or
 third-party tools (e.g., Google OAuth).
-
-
-![Uploading Screenshot 2025-06-23 133040.png…]()
+![Screenshot 2025-06-23 133040](https://github.com/user-attachments/assets/87a8314e-ea61-4159-bef9-ddc40dd7612b)
