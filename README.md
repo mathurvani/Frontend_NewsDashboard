@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 ## Getting Started
-cd FrontEND\tailwind-test-app
+cd FrontEND/tailwind-test-app
 First, run the development server:
 
 ```bash
